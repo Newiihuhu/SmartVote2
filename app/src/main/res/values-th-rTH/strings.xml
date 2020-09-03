@@ -6,5 +6,6 @@
     <string name="hours">ชั่วโมง</string>
     <string name="minutes">นาที</string>
     <string name="seconds">วินาที</string>
-    <string name="next">ภัดไป</string>
+    <string name="next">ถัดไป</string>
+
 </resources>
